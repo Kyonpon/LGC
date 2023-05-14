@@ -1,0 +1,47 @@
+{
+  "name": "LSPU-SCC",
+  "coe": [
+    "Bachelor of Science in Electronics Engineering",
+    "Bachelor of Science in Mechanical Engineering",
+    "Bachelor of Science in Electrical Engineering",
+    "Bachelor of Science in Civil Engineering",
+    "Bachelor of Science in Computer Engineering"
+  ],
+  "conah": ["Bachelor of Science in Nursing"],
+  "cas": [
+    "Bachelor of Arts in Broadcasting",
+    "Bachelor of Science in Biology",
+    "Bachelor of Science in Chemistry",
+    "Bachelor of Science in Mathematics",
+    "Bachelor of Science in Psychology"
+  ],
+  "cte": [
+    "Bachelor of Secondary Education",
+    "Bachelor of Elementary Education",
+    "Bachelor of Technical Vocational Teacher Education",
+    "Bachelor of Physical Education",
+    "Bachelor of Technology and Livelihood Education (BTLEd)",
+    "Bachelor of Technical Vocational Teacher Education (BTVTEd)"
+  ]
+}
+----------------------------------------------------------------
+{
+    "name": "LU",
+    "coe": [
+      "Bachelor of Science in Mechanical Engineering",
+      "Bachelor of Science in Computer Engineering"
+    ],
+    "conah": ["Diploma in Midwifery"],
+    "cas": [
+      "Bachelor of Arts in Communication",
+      "Bachelor of Science in Psychology"
+    ],
+    "cte": [
+      "Bachelor of Secondary Education",
+      "Bachelor of Elementary Education",
+    ]
+}
+
+
+  
+  
