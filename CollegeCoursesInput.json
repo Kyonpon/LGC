@@ -1,0 +1,218 @@
+{
+  "name": "UPLB",
+  "coe": [
+    "Bachelor of Science in Materials Engineering",
+    "Bachelor of Science in Mechanical Engineering",
+    "Bachelor of Science in Agricultural and Biosystems Engineering",
+    "Bachelor of Science in Chemical Engineering",
+    "Bachelor of Science in Civil Engineering",
+		"Bachelor of Science in Electrical Engineering",
+		"Bachelor of Science in Industrial Engineering ",
+		"Bachelor of Science in Materials Engineering",
+		"Bachelor of Science in Mechanical Engineering"
+  ],
+  "conah": [
+		
+	],
+  "cas": [
+    "Bachelor of Arts in Communication Arts ",
+		"Bachelor of Arts in Philosophy ",
+		"Bachelor of Arts in Sociology",
+    "Bachelor of Science in Applied Mathematics",
+    "Bachelor of Science in Applied Physics",
+    "Bachelor of Science in Biology",
+    "Bachelor of Science in Chemistry",
+		"Bachelor of Science in Computer Science",
+		"Bachelor of Science in Mathematics",
+		"Bachelor of Science in Mathematics and Science Teaching",
+		"Bachelor of Science in Statistics"
+  ],
+  "cte": [
+		
+  ]
+}
+----------------------------------------------------------------------------
+{
+  "name": "LSPU-SNL",
+  "coe": [
+    "Bachelor of Science in Agricultural and Biosystems Engineering",
+    "Bachelor of Science in Computer Engineering",
+    "Bachelor of Science in Industrial Technology",
+    "Bachelor of Science in Mechanical Engineering"
+  ],
+  "conah": [
+		
+	],
+  "cas": [
+    "Bachelor of Science in Psychology"
+  ],
+	
+  "cte": [
+		"Bachelor of Early Childhood Education",
+		"Bachelor of Elementary Education",
+		"Bachelor of Physical Education",
+		"Bachelor of Secondary Education",
+		"Bachelor of Technical-Vocational Teacher Education",
+		"Bachelor of Technology and Livelihood Education"
+  ]
+}
+------------------------------------------------------------------
+{
+  "name": "LSPU-SCC",
+  "coe": [
+    "Bachelor of Science in Electronics Engineering",
+    "Bachelor of Science in Mechanical Engineering",
+    "Bachelor of Science in Electrical Engineering",
+    "Bachelor of Science in Civil Engineering",
+    "Bachelor of Science in Computer Engineering"
+  ],
+  "conah": ["Bachelor of Science in Nursing"],
+  "cas": [
+    "Bachelor of Arts in Broadcasting",
+    "Bachelor of Science in Biology",
+    "Bachelor of Science in Chemistry",
+    "Bachelor of Science in Mathematics",
+    "Bachelor of Science in Psychology"
+  ],
+  "cte": [
+    "Bachelor of Secondary Education",
+    "Bachelor of Elementary Education",
+    "Bachelor of Technical Vocational Teacher Education",
+    "Bachelor of Physical Education",
+    "Bachelor of Technology and Livelihood Education (BTLEd)",
+    "Bachelor of Technical Vocational Teacher Education (BTVTEd)"
+  ]
+}
+-----------------------------------------------------------------
+{
+  "name": "PNC", 
+  "coe": [
+    "Bachelor of Science in Computer Engineering",
+    "Bachelor of Science in Electronics Engineering",
+    "Bachelor of Science in Industrial Engineering"
+  ],
+	
+  "conah": [
+		"Bachelor of Science in Nursing"
+	],
+	
+  "cas": [
+    "Bachelor of Science in Psychology"
+  ],
+	
+  "cte": [
+		"Bachelor of Elementary Education",
+		"Bachelor of Secondary Education"
+  ]
+}
+----------------------------------------------------------------------------
+{
+  "name": "PUP-STA.ROSA",
+  "coe": [
+    "Bachelor of Science in Electronics Engineering",
+    "Bachelor of Science in Industrial Engineering"
+  ],
+	
+  "conah": [
+		
+	],
+	
+  "cas": [
+    "Bachelor of Science in Psychology"
+  ],
+	
+  "cte": [
+		"Bachelor of Technology and Livelihood Education",
+		"Bachelor of Secondary Education"
+  ]
+}
+------------------------------------------------------------------------
+{
+  "name": "CCC", 
+  "coe": [
+   
+  ],
+	
+  "conah": [
+		
+	],
+	
+  "cas": [
+    "Bachelor of Science in Psychology"
+  ],
+	
+  "cte": [
+		"Bachelor of Elementary Education",
+		"Bachelor of Secondary Education"
+  ]
+}
+----------------------------------------------------------------------------
+{
+  "name": "LSPU-LB",
+  "coe": [
+ 
+  ],
+	
+  "conah": [
+		
+	],
+	
+  "cas": [
+    "Bachelor of Science in Psychology"
+  ],
+	
+  "cte": [
+		"Bachelor of Elementary Education",
+		"Bachelor of Secondary Education",
+		"Bachelor of Technical-Vocational Teacher Education",
+		"Bachelor of Technology and Livelihood Education"
+  ]
+}
+---------------------------------------------------------------------------------------
+{
+  "name": "LSPU-SPC",
+  "coe": [
+ 	"Bachelor of Science in Computer Engineering",
+	"Bachelor of Science in Electrical Engineering",
+	"Bachelor of Science in Electronics Engineering"
+  ],
+	
+  "conah": [
+		
+	],
+	
+  "cas": [
+    "Bachelor of Science in Psychology",
+		"Bachelor of Science in Biology"
+  ],
+	
+  "cte": [
+		"Bachelor of Elementary Education",
+		"Bachelor of Secondary Education",
+		"Bachelor of Physical Education",
+		"Bachelor of Technical-Vocational Teacher Education",
+		"Bachelor of Technology and Livelihood Education"
+  ]
+}
+---------------------------------------------------------------------------------------
+{
+  "name": "LU",
+  "coe": [
+ 	"Bachelor of Science in Mechanical Engineering"
+  ],
+	
+  "conah": [
+		
+	],
+	
+  "cas": [
+    "Bachelor of Science in Psychology",
+		"Bachelor of Science in Communication"
+  ],
+	
+  "cte": [
+		"Bachelor of Elementary Education",
+		"Bachelor of Secondary Education"
+  ]
+}
+------------------------------------------------------------------------------

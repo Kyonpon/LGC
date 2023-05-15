@@ -1,0 +1,136 @@
+{
+    "name": LSPU-SCC,
+    "Santa Cruz": 0,
+    "Pila": 5.6,
+    "Pagsanjan":8.9,
+    "Lumban":18,
+    "Majayjay":22,
+    "Los Baños": 24.7,
+    "San Pablo": 28.9,
+    "Siniloan":29.2,
+    "Calamba": 43.1,
+    "Santa Rosa":51.5,
+    "Cabuyao":41.2,
+    
+}
+---------------------------------
+{
+    "name": LSPU-LB,
+    "Santa Cruz": 26.3,
+    "Pila":20.1,
+    "Pagsanjan":32.7,
+    "Lumban":41.8,
+    "Majayjay":38.2,
+    "Los Baños":0,
+    "San Pablo": 23.1,
+    "Siniloan":53,
+    "Calamba": 17.6,
+    "Santa Rosa":28.1,
+    "Cabuyao":17.6
+}
+
+---------------------------------
+{
+    "name": LSPU-SNL,
+    "Santa Cruz": 24.8,
+    "Pila":31.5,
+    "Pagsanjan":20.8,
+    "Lumban":23.2,
+    "Majayjay":39.5,
+    "Los Baños":49.3,
+    "San Pablo": 55,
+    "Siniloan":0,
+    "Calamba": 70.6,
+    "Santa Rosa":77.4,
+    "Cabuyao":67,
+}
+---------------------------------
+{
+    "name": LSPU-SPC,
+    "Santa Cruz": 27.6,
+    "Pila":21.5,
+    "Pagsanjan":38.1,
+    "Lumban":43.2,
+    "Majayjay":27.6,
+    "Los Baños":18.7,
+    "San Pablo": 0,
+    "Siniloan":58.4,
+    "Calamba": 41.2,
+    "Santa Rosa":44.5,
+    "Cabuyao":36.9,
+}
+---------------------------------
+{
+    "name": PNC,
+    "Santa Cruz": 43.4,
+    "Pila":37.2,
+    "Pagsanjan":49.8,
+    "Lumban":58.9,
+    "Majayjay":55.3,
+    "Los Baños":20.5,
+    "San Pablo": 44,
+    "Siniloan":70.1,
+    "Calamba": 12.3,
+    "Santa Rosa":9.4,
+    "Cabuyao":2.9,
+}
+---------------------------------
+{
+    "name": PUP-STR,
+    "Santa Cruz": 56.2,
+    "Pila":50,
+    "Pagsanjan":65.5,
+    "Lumban":23.2,
+    "Majayjay":70,
+    "Los Baños":35.2,
+    "San Pablo":51.3,
+    "Siniloan":83.8,
+    "Calamba": 20.4,
+    "Santa Rosa":0,
+    "Cabuyao":9.7
+}
+---------------------------------
+{
+    "name": UP-LB,
+    "Santa Cruz": 26,
+    "Pila":19.9,
+    "Pagsanjan":32.4,
+    "Lumban":41.6,
+    "Majayjay":37.9,
+    "Los Baños":20.9,
+    "San Pablo":51.3,
+    "Siniloan":52.7,
+    "Calamba": 21.6,
+    "Santa Rosa":31.6,
+    "Cabuyao":21.1
+}
+---------------------------------
+{
+    "name": LU,
+    "Santa Cruz":0,
+    "Pila":6,
+    "Pagsanjan":8.8,
+    "Lumban":17.9,
+    "Majayjay":22.7,
+    "Los Baños":23.8,
+    "San Pablo":29.5,
+    "Siniloan":29,
+    "Calamba": 45.6,
+    "Santa Rosa":51.9,
+    "Cabuyao":41.9
+}
+---------------------------------
+{
+    "name": CCC,
+    "Santa Cruz":36.5,
+    "Pila":30.3,
+    "Pagsanjan":42.9,
+    "Lumban":52,
+    "Majayjay":48.4,
+    "Los Baños":13.6,
+    "San Pablo":33.3,
+    "Siniloan":63.2,
+    "Calamba": 0,
+    "Santa Rosa":15.5,
+    "Cabuyao":7.8
+}
