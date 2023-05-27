@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
 import { Link } from "react-router-dom";
+import BasicNavbar from "./BasicNavbar";
 
 function SearchBar() {
   const [search, SetSearch] = useState("");
@@ -115,6 +116,7 @@ function SearchBar() {
             </li>
           ))}
       </ul> */}
+      <BasicNavbar></BasicNavbar>
     </>
   );
 }

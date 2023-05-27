@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import LspuSccHomepage from "./pages/LspuSccHomepage";
 import LuHomepage from "./pages/LuHomepage";
-import UplbHomepage from "./pages/UplbHomePage";
+import UplbHomepage from "./pages/UplbHomepage";
 
 import SearchBar from "./components/SearchBar-4";
 import LspuSpcHomepage from "./pages/LspuSpcHomepage";

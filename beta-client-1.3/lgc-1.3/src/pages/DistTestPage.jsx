@@ -1,4 +1,5 @@
 import DistTest from "../components/DistTest2";
+import BasicNavbar from "../components/BasicNavbar";
 import { useState } from "react";
 
 function DistTestPage() {
@@ -49,6 +50,7 @@ function DistTestPage() {
       </div>
 
       <DistTest townName={selectedItem} include={includedColleges} />
+      <BasicNavbar></BasicNavbar>
     </div>
   );
 }

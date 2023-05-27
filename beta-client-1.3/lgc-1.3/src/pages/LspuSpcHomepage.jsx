@@ -1,6 +1,7 @@
 import College from "../components/College";
 import CollegeInfo from "../components/CollegeInfo";
 import GetCourses from "../components/GetCourses";
+import BasicNavbar from "../components/BasicNavbar";
 import "./pages-css/college-homepage.css";
 
 function LspuSpcHomepage() {
@@ -15,6 +16,7 @@ function LspuSpcHomepage() {
       <GetCourses collegeName={collegeN} departmentName="cte"></GetCourses>
 
       <GetCourses collegeName={collegeN} departmentName="cas"></GetCourses>
+      <BasicNavbar></BasicNavbar>
     </div>
   );
 }

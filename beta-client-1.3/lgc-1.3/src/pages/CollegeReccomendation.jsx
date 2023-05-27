@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import axios from "axios";
 import { Link } from "react-router-dom";
 import DistTest from "../components/DistTest2";
+import BasicNavbar from "../components/BasicNavbar";
 
 export default function CollegeReccomendation() {
   const [coeArr, setCoeArr] = useState([]);
@@ -173,6 +174,8 @@ export default function CollegeReccomendation() {
 
         <DistTest townName={selectedItem} include={includedColleges} />
       </div>
+
+      <BasicNavbar></BasicNavbar>
     </>
   );
 }
